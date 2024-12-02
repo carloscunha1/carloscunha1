@@ -1,7 +1,7 @@
 ## Hi, I'm Carlos Cunha, welcome to my profile
 
 - 🔭 I’m currently working with back-end
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Java
 - 📫 How to reach me: carlosrubim13@gmail.com
 - 😄 Pronouns: he/his
 
