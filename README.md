@@ -1,7 +1,7 @@
 ## Hi, I'm Carlos Cunha, welcome to my profile
 
 - 📚 I am pursuing a degree in Software Engineering.
-- 🌱 I’m currently learning Nest
+- 🌱 I’m currently GoLang
 - 📫 How to reach me: carlosrubim13@gmail.com
 
 ## 📊 GitHub Stats:
