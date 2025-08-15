@@ -1,14 +1,15 @@
 ## Hi, I'm Carlos Cunha, welcome to my profile
 
 - 📚 I am pursuing a degree in Software Engineering.
-- 🌱 I’m currently GoLang
+- 🌱 I’m currently learning GoLang
 - 📫 How to reach me: carlosrubim13@gmail.com
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carloscunha1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carloscunha1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=carloscunha1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carloscunha1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=carloscunha1&theme=dark" alt="GitHub Streak" />
 </div>
 
 ###
